@@ -1,5 +1,6 @@
 # MSF-Telegram-Notify
-Simple notification in telegram about opening a new session in MSF
+Simple notification in telegram about opening a new session in Metasploit
+Простой скрипт для получения уведомлений о новых сессиях Metasploit
 
 EN
 1. Copy the file to ~/.msf4/modules/post/multi
